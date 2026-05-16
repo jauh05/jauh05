@@ -81,11 +81,13 @@ Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing
 
 <h2 align="left">GitHub Stats:</h2>
 
-![](https://github-readme-stats.shion.dev/api?username=jauh05&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jauh05&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jauh05&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jauh05/jauh05/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/jauh05/jauh05/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=jauh05&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/jauh05/jauh05/snake-output/snake.svg" alt="Snake animation" />
+
+###
