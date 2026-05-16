@@ -51,7 +51,8 @@ Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing
 
 ###
 
-## 🌐 Socials:
+<br clear="both">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jauhar-fauzi-ulul-albab-979245291/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="31" alt="linkedin logo"  />
