@@ -2,7 +2,12 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-# 💫 About Me:
+###
+
+<h2 align="left">About me</h2>
+
+###
+
 Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing innovative and efficient digital solutions, <br>with an interest in AI and software engineering to solve real problems.
 
 <picture>
@@ -53,6 +58,8 @@ Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing
 
 <div align="left">
 </div>
+
+<h2 align="left">social media</h2>
 
 ###
 
