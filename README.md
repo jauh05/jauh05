@@ -79,9 +79,8 @@ Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing
 
 ###
 
+<h2 align="left">GitHub Stats:</h2>
 
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jauh05&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=jauh05&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jauh05&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
