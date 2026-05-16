@@ -11,17 +11,6 @@ Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jauhar.fauzi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jauhar-fauzi-ulul-albab-979245291/?skipRedirect=true) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jauhar.fauzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jauharfua05@gmail.com) 
-
 
 ###
 
@@ -61,6 +50,23 @@ Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing
 </div>
 
 ###
+
+## 🌐 Socials:
+<div align="center">
+  <a href="https://www.linkedin.com/in/jauhar-fauzi-ulul-albab-979245291/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="31" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jauhar.fauzi_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="53" height="31" alt="instagram logo"  />
+  </a>
+  <a href="jauharfua05@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="53" height="31" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jauh05&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
