@@ -11,6 +11,11 @@ Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 ###
 
