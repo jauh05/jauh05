@@ -8,7 +8,7 @@
 
 ###
 
-Digital Solutions Engineer & Tech Problem Solver <br>which focuses on developing innovative and efficient digital solutions, <br>with an interest in AI and software engineering to solve real problems.
+Digital Solutions Engineer & Tech Problem Solver which focuses on developing innovative and efficient digital solutions, with an interest in AI and software engineering to solve real problems.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph-dark.svg">
