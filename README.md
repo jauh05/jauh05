@@ -10,6 +10,10 @@
 
 Digital Solutions Engineer & Tech Problem Solver which focuses on developing innovative and efficient digital solutions, with an interest in AI and software engineering to solve real problems.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jauh05/jauh05/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph.svg">
@@ -84,6 +88,10 @@ Digital Solutions Engineer & Tech Problem Solver which focuses on developing inn
 <div align="center">
   <img src="https://raw.githubusercontent.com/jauh05/jauh05/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/jauh05/jauh05/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jauh05/jauh05/activity-graph-output/activity-graph.svg" height="297" alt="activity-graph graph"  />
 </div>
 
 ###
