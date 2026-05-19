@@ -14,6 +14,8 @@ Digital Solutions Engineer & Tech Problem Solver which focuses on developing inn
   <img src="https://raw.githubusercontent.com/jauh05/jauh05/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph.svg">
