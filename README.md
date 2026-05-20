@@ -11,10 +11,8 @@
 Digital Solutions Engineer & Tech Problem Solver which focuses on developing innovative and efficient digital solutions, with an interest in AI and software engineering to solve real problems.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jauh05/jauh05/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=jauh05&theme=dracula&row=1&column=7" />
 </div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph-dark.svg">
