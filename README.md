@@ -63,9 +63,9 @@ Currently interested in Fullstack Development, AI Engineering, and Software Arch
 
 <h2 align="center">⚒️ Tech Stack</h2>
 
-<h3 align="left">💻 Programming Languages</h3>
+<h3 align="center">💻 Programming Languages</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" />
   <img width="12" />
   
@@ -83,9 +83,9 @@ Currently interested in Fullstack Development, AI Engineering, and Software Arch
 
 <br>
 
-<h3 align="left">🌐 Frontend Development</h3>
+<h3 align="center">🌐 Frontend Development</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" />
   <img width="12" />
   
@@ -103,9 +103,9 @@ Currently interested in Fullstack Development, AI Engineering, and Software Arch
 
 <br>
 
-<h3 align="left">⚙️ Backend & Database</h3>
+<h3 align="center">⚙️ Backend & Database</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" />
   <img width="12" />
   
