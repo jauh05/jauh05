@@ -49,7 +49,7 @@ I enjoy developing web applications, exploring Artificial Intelligence, and solv
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jauh05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jauh05&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1&column=7" alt="GitHub Trophy"/>
 
 </div>
 
@@ -59,9 +59,8 @@ I enjoy developing web applications, exploring Artificial Intelligence, and solv
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jauh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauh05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jauh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauh05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 
 </div>
 
@@ -71,7 +70,7 @@ I enjoy developing web applications, exploring Artificial Intelligence, and solv
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jauh05&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jauh05&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 </div>
 
@@ -81,7 +80,7 @@ I enjoy developing web applications, exploring Artificial Intelligence, and solv
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jauh05&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jauh05&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
