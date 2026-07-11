@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 Digital Solutions Engineer & Tech Problem Solver focused on building innovative, scalable, and efficient digital products.
 
@@ -28,7 +28,7 @@ I enjoy developing web applications, exploring Artificial Intelligence, and solv
 
 ---
 
-## 👨‍💻 Profile Information
+# 👨‍💻 Profile Information
 
 <div align="center">
 
@@ -45,112 +45,125 @@ I enjoy developing web applications, exploring Artificial Intelligence, and solv
 
 ---
 
-## 🏆 GitHub Trophy
+# 🏆 GitHub Trophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jauh05&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1&column=7" alt="GitHub Trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jauh05&theme=tokyonight&margin-w=10&margin-h=10&column=7" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jauh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauh05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jauh05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauh05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jauh05&theme=tokyonight&hide_border=true" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=jauh05&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jauh05&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jauh05&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎮 Contribution Graph
+# 🎮 Pacman Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/jauh05/jauh05/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
 
 ---
 
-## ⚒️ Tech Stack
-
-### 💻 Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,cpp" />
-
-</div>
-
-### 🌐 Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-
-</div>
-
-### ⚙️ Backend & Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,mongodb" />
-
-</div>
-
-### ☁️ Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jauh05/jauh05/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jauh05/jauh05/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jauh05/jauh05/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jauh05/jauh05/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/jauh05/jauh05/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# ⚒️ Tech Stack
+
+## 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,cpp"/>
+
+</div>
+
+## 🌐 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+
+</div>
+
+## ⚙️ Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,mongodb"/>
+
+</div>
+
+## ☁️ Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -170,23 +183,27 @@ I enjoy developing web applications, exploring Artificial Intelligence, and solv
 
 ---
 
-## 🎓 Research & Publications
+# 🎓 Research & Publications
 
-📚 **SINTA 3 Indexed Research**
+### 📚 SINTA 3 Indexed Research
 
 **Implementation of TF-IDF and Word Normalizer for Indonesian Text Processing**
 
 - Published in JAIC (Journal of Applied Informatics and Computing)
 - Vol. 10 No. 1 (2026)
-- Focus: NLP, Text Mining, Information Retrieval, and Indonesian Language Processing
+- Focus:
+  - Natural Language Processing
+  - Text Mining
+  - Information Retrieval
+  - Indonesian Language Processing
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
 <div align="center">
 
-> "Technology becomes valuable when it solves real-world problems and creates meaningful impact."
+> *"Technology becomes valuable when it solves real-world problems and creates meaningful impact."*
 
 </div>
 
